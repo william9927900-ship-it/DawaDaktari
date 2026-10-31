@@ -26,7 +26,10 @@ Tested on 100+ cases from clinical rotations at Egerton University. Flagged 87% 
 - Add offline PWA
 - Pilot in 3 dispensaries in Nakuru County
 
-Author: William — Clinical Officer / PharmTech, Egerton University, Nairobi, Kenya.
+Author: William — Clinical Officer / PharmTech, Egerton University, Nakuru, Kenya.
+
 Team ID: 1141377611771525
+
 Repo: github.com/william9927900-ship-it/DawaDaktari
+
 Track: Indie Developer - Build for Your World
